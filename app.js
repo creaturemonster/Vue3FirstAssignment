@@ -3,6 +3,7 @@ const app=Vue.createApp({
       return {
         name:'Henry', 
         age:'26',
+        fiveYearsLater:'31',
         img:'https://www.bls.gov/images/bls_emblem_2016.png'
       };
     }, 
